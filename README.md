@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/c20899f3-5985-4e6a-81f8-a7f8cf7f0e7c)
+![image](https://github.com/user-attachments/assets/64d90cb5-c1dc-4cf6-845b-0c577b505e6d)![](https://99px.ru/sstorage/86/2020/10/image_862010201407416068891.gif)
 Аня Кот
 
 ## 1
@@ -73,5 +73,54 @@
 ![](https://github.com/user-attachments/assets/9b210dea-2a44-4259-bccd-7bed3f06c41a)
 
 
+## 13
+### code
+![](https://github.com/user-attachments/assets/6f57cc04-1211-4a61-8c62-48256255a27c)
+### результат
+![](https://github.com/user-attachments/assets/c2e597b9-5fed-49f0-982a-5d613a9402a9)
+
+
+## 14
+### code
+![](https://github.com/user-attachments/assets/91321bf0-e6c9-430b-9872-b0eec1c9851f)
+### результат
+![](https://github.com/user-attachments/assets/604373bd-1381-4f4a-9753-27950164c4de)
+
+
+## 15
+### code
+![](https://github.com/user-attachments/assets/0308184d-6b44-429d-9452-6124c7f0536b)
+### результат
+![](https://github.com/user-attachments/assets/a13868a3-6f4e-4850-8fb9-ae362881907c)
+
+
+## 16
+### code
+![](https://github.com/user-attachments/assets/c75072c8-ea11-493b-b0ef-daa0fb86c892)
+### результат
+![](https://github.com/user-attachments/assets/a7b1921c-ed49-40cd-8428-0c1ffc939e5a)
+![](https://github.com/user-attachments/assets/2607110b-8be9-4bfb-9d95-8e78cdd358cd)
+
+
+## 17
+### code
+![](https://github.com/user-attachments/assets/9156369e-bef0-4afc-b837-4c0128232937)
+### результат
+![](https://github.com/user-attachments/assets/da7f8bbf-ee74-448a-966e-6c36ee4fe23a)
+### 401
+
+
+## 19
+### code
+![](https://github.com/user-attachments/assets/f5fa76f4-a2ab-4dcd-b519-b63cf2935305)
+### результат
+![](https://github.com/user-attachments/assets/26ae0a79-6368-4181-a6ad-c3dec6fa6735)
+
+
+## 20
+### code
+![](https://github.com/user-attachments/assets/e8587c8e-bdde-426b-b78a-bb89fe4d9acb)
+### результат
+![](https://github.com/user-attachments/assets/d3964ede-3e44-4c52-b3a0-10567c1da9f9)
 
 
