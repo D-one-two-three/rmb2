@@ -1,6 +1,8 @@
 ![image](https://github.com/user-attachments/assets/64d90cb5-c1dc-4cf6-845b-0c577b505e6d)![](https://99px.ru/sstorage/86/2020/10/image_862010201407416068891.gif)
 Аня Кот
 
+
+
 ## 1
 ### code
 ![](https://github.com/user-attachments/assets/8eb0f7fd-2cc0-40fc-b154-fe703b9e6212)
